@@ -21,7 +21,4 @@ It helps in predicting whether a patient has diabetic retinopathy based on input
 - Pandas
 - NumPy
 - Matplotlib
-
 ---
-
-## 📂 Project Structure
