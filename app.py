@@ -1,7 +1,10 @@
 import streamlit as st
+st.write("App started successfully")
+
+import joblib
+st.write("Joblib imported successfully")
 import numpy as np
 import pandas as pd
-import joblib
 import io
 import matplotlib.pyplot as plt
 
