@@ -5,12 +5,14 @@ This project is a **Diabetic Retinopathy Prediction Web App** built using **Mach
 It helps in predicting whether a patient has diabetic retinopathy based on input data.
 
 ---
+## Live Demo
+http://localhost:8501/
 
-## 🚀 Features
-- 🤖 Machine Learning model for prediction
-- 📁 Upload data / input manually
-- 📉 Displays prediction results instantly
-- 📥 Option to download results (CSV)
+## Features
+-  Machine Learning model for prediction
+-  Upload data / input manually
+-  Displays prediction results instantly
+-  Option to download results (CSV)
 
 ---
 
