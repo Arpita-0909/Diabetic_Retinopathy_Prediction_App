@@ -8,7 +8,8 @@ It helps in predicting whether a patient has diabetic retinopathy based on input
 ## Live Demo
 http://localhost:8501/
 
-## App Link  https://diabeticretinopathypredictionapp-fb7hf5pguag8p7uasbllrj.streamlit.app/ OR https://bit.ly/3PN63uk
+## App Link 
+https://diabeticretinopathypredictionapp-fb7hf5pguag8p7uasbllrj.streamlit.app/ OR https://bit.ly/3PN63uk
 ## Features
 -  Machine Learning model for prediction
 -  Upload data / input manually
